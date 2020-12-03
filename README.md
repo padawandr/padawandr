@@ -10,19 +10,19 @@
 
 <p>
   <img src="https://img.shields.io/badge/-code:-fff?style=flat-square"/><br>
-  <img src="https://img.shields.io/badge/-html-24292e?style=flat-square&logo=html5&logoColor=ffa37f"/>
-  <img src="https://img.shields.io/badge/-css-24292e?style=flat-square&logo=css3&logoColor=7fa5ff"/>
-  <img src="https://img.shields.io/badge/-javascript-24292e?style=flat-square&logo=javascript&logoColor=fff07f"/>
-  <img src="https://img.shields.io/badge/-bootstrap-24292e?style=flat-square&logo=bootstrap&logoColor=b07fff"/>
+  <img src="https://img.shields.io/badge/html--ff967f?style=flat-square&logo=html5&logoColor=ff967f&labelColor=24292e"/>
+  <img src="https://img.shields.io/badge/css--7fd2ff?style=flat-square&logo=css3&logoColor=7fd2ff&labelColor=24292e"/>
+  <img src="https://img.shields.io/badge/javascript--fff07f?style=flat-square&logo=javascript&logoColor=fff07f&labelColor=24292e"/>
+  <img src="https://img.shields.io/badge/bootstrap--b07fff?style=flat-square&logo=bootstrap&logoColor=b07fff&labelColor=24292e"/>
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/-tools:-fff?style=flat-square"/><br>
-  <img src="https://img.shields.io/badge/-vscode-24292e?style=flat-square&logo=visual+studio+code&logoColor=7fd2ff"/>
-  <img src="https://img.shields.io/badge/-git-24292e?style=flat-square&logo=git&logoColor=ff967f"/>
-  <img src="https://img.shields.io/badge/-github-24292e?style=flat-square&logo=github&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/-figma-24292e?style=flat-square&logo=figma&logoColor=ff9b7f"/>
-  <img src="https://img.shields.io/badge/-photoshop-24292e?style=flat-square&logo=adobe+photoshop&logoColor=7fc9ff"/>
+  <img src="https://img.shields.io/badge/vscode--7fd2ff?style=flat-square&logo=visual+studio+code&logoColor=7fd2ff&labelColor=24292e"/>
+  <img src="https://img.shields.io/badge/git--ff967f?style=flat-square&logo=git&logoColor=ff967f&labelColor=24292e"/>
+  <img src="https://img.shields.io/badge/github--bbb?style=flat-square&logo=github&logoColor=fff&labelColor=24292e"/>
+  <img src="https://img.shields.io/badge/figma--ff967f?style=flat-square&logo=figma&logoColor=ff967f&labelColor=24292e"/>
+  <img src="https://img.shields.io/badge/photoshop--7fd2ff?style=flat-square&logo=adobe+photoshop&logoColor=7fd2ff&labelColor=24292e"/>
 </p>
 
 <p>
