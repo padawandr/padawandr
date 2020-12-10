@@ -9,7 +9,7 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/-code:-64727f?style=flat-square"/><br>
+  <img src="https://img.shields.io/badge/-code:-24292e?style=flat-square"/><br>
   <img src="https://img.shields.io/badge/html--ff967f?style=flat-square&logo=html5&logoColor=ff967f&labelColor=24292e"/>
   <img src="https://img.shields.io/badge/css--7fd2ff?style=flat-square&logo=css3&logoColor=7fd2ff&labelColor=24292e"/>
   <img src="https://img.shields.io/badge/javascript--fff07f?style=flat-square&logo=javascript&logoColor=fff07f&labelColor=24292e"/>
