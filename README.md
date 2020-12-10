@@ -27,6 +27,9 @@
 <p>
   <img src="https://img.shields.io/badge/-contact:-24292e?style=flat"/><br>
   <a href="https://www.linkedin.com/in/padawandr" alt="linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/-linkedin-0966C2?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/-linkedin-0966C2?style=for-the-badge&logo=linkedin&logoColor=fff" />
+  </a>
+  <a href="mailto:padawandr@gmail.com" alt="email" target="_blank">
+    <img src="https://img.shields.io/badge/-gmail-E34133?style=for-the-badge&logo=gmail&logoColor=fff" />
   </a>
 </p>
