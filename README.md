@@ -4,8 +4,7 @@
 
 <p>
   My name is Wanderley and I'm a Software Engineering student living in Brasilia.<br>
-  I'm currently learning JavaScript.<br>
-  My main focus is to become a Fullstack Developer.
+  I'm currently learning JavaScript and my main focus is to become a Fullstack Developer.
 </p>
 
 <p>
