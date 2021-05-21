@@ -9,10 +9,11 @@
 
 <p>
   <img src="https://img.shields.io/badge/-code:-24292e?style=flat"/><br>
-  <img src="https://img.shields.io/badge/-html-24292e?style=flat&logo=html5&logoColor=ff967f"/>
-  <img src="https://img.shields.io/badge/-css-24292e?style=flat&logo=css3&logoColor=7fd2ff"/>
   <img src="https://img.shields.io/badge/-javascript-24292e?style=flat&logo=javascript&logoColor=fff07f"/>
+  <img src="https://img.shields.io/badge/-css-24292e?style=flat&logo=css3&logoColor=7fd2ff"/>
+  <img src="https://img.shields.io/badge/-html-24292e?style=flat&logo=html5&logoColor=ff967f"/>
   <img src="https://img.shields.io/badge/-bootstrap-24292e?style=flat&logo=bootstrap&logoColor=b07fff"/>
+  <img src="https://img.shields.io/badge/-sass-24292e?style=flat&logo=sass&logoColor=e592f0"/>
 </p>
 
 <p>
@@ -27,9 +28,9 @@
 <p>
   <img src="https://img.shields.io/badge/-contact:-24292e?style=flat"/><br>
   <a href="https://www.linkedin.com/in/padawandr" alt="linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/-linkedin-0966C2?style=flat-square&logo=linkedin&logoColor=fff" />
+    <img src="https://img.shields.io/badge/-linkedin-0966C2?style=flat-square&logo=linkedin&logoColor=fff"/>
   </a>
   <a href="mailto:padawandr@gmail.com" alt="email" target="_blank">
-    <img src="https://img.shields.io/badge/-gmail-E34133?style=flat-square&logo=gmail&logoColor=fff" />
+    <img src="https://img.shields.io/badge/-gmail-E34133?style=flat-square&logo=gmail&logoColor=fff"/>
   </a>
 </p>
