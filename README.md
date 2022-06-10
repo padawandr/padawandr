@@ -4,16 +4,21 @@
 
 <p>
   My name is Wanderley and I'm a Software Engineering student living in Brasilia.<br>
-  I'm currently learning JavaScript and my main focus is to become a Fullstack Developer.
+  I'm currently learning Front-End development and my main focus is to become a Fullstack Developer.
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/-code:-24292e?style=flat"/><br>
+  <img src="https://img.shields.io/badge/-angular-24292e?style=flat&logo=angular&logoColor=ff967f"/>
+  <img src="https://img.shields.io/badge/-react-24292e?style=flat&logo=react&logoColor=7fd2ff"/>
+  <img src="https://img.shields.io/badge/-nextjs-24292e?style=flat&logo=nextdotjs&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/-typescript-24292e?style=flat&logo=typescript&logoColor=7fd2ff"/>
   <img src="https://img.shields.io/badge/-javascript-24292e?style=flat&logo=javascript&logoColor=fff07f"/>
+  <img src="https://img.shields.io/badge/-jest-24292e?style=flat&logo=jest&logoColor=ff967f"/>
   <img src="https://img.shields.io/badge/-css-24292e?style=flat&logo=css3&logoColor=7fd2ff"/>
+  <img src="https://img.shields.io/badge/-sass-24292e?style=flat&logo=sass&logoColor=e592f0"/>
   <img src="https://img.shields.io/badge/-html-24292e?style=flat&logo=html5&logoColor=ff967f"/>
   <img src="https://img.shields.io/badge/-bootstrap-24292e?style=flat&logo=bootstrap&logoColor=b07fff"/>
-  <img src="https://img.shields.io/badge/-sass-24292e?style=flat&logo=sass&logoColor=e592f0"/>
 </p>
 
 <p>
